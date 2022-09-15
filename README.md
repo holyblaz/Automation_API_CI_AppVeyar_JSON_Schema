@@ -12,7 +12,7 @@
 1. Склонировать проект из репозитория командой 
 
 ```
-git clone https://github.com/IrinaVasilenko88/CI.git
+git clone https://github.com/holyblaz/Automation_API_CI_AppVeyar_JSON_Schema.git
 ``` 
 2. Открыть склонированный проект в Intellij IDEA
 3. Открыть в терминале каталог ```artifacts```
